@@ -1,0 +1,1 @@
+headache,sore,temperature,cough,CLASS
