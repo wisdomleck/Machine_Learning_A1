@@ -1,0 +1,14 @@
+age: numeric
+workclass: categoric 
+fnlwgt: numeric
+education: categoric
+education-num: numeric
+marital-status: categoric
+occupation: categoric
+relationship: categoric
+race: categoric
+sex: categoric
+capital-gain: numeric
+capital-loss: numeric
+hours-per-week: numeric
+native-country: categoric
